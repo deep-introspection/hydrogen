@@ -20,7 +20,7 @@ we recommend you to install `Hydrogen` via console command: `apm install hydroge
 
 ## Kernels
 
-Checkout [nteract.io/kernels](https://nteract.io/kernels) for instructions on how to install the most popular kernels.
+Checkout [interact.io/kernels](https://interact.io/kernels) for instructions on how to install the most popular kernels.
 
 Tested and works with:
 
